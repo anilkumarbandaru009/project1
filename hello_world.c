@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+//comment added after creating new_branch 
 void fun1(){
 	printf("fun1() function created\n");
 }
